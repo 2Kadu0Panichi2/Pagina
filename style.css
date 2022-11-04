@@ -25,3 +25,7 @@ head{
     background-color: rgb(70, 132, 226);
     text-decoration: rgb(0, 0, 0);
 }
+
+b{
+    padding: 0px;
+}
