@@ -3,3 +3,17 @@ a {
     text-decoration:black
     text-align: center;
 }
+
+body {
+    text-align: center;
+   background-color: rgba(52, 0, 119, 0.993);
+}
+
+h1 {
+   text-align: center;
+}
+
+h1,
+p {
+   color: rgba(0, 0, 0, 0.726);
+}
