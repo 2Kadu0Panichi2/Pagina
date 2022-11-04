@@ -6,20 +6,20 @@ a {
 
 body {
     text-align: center;
-   background-color: rgba(52, 0, 119, 0.993);
+   background-color: rgba(111, 0, 255, 0.993);
 }
 
 h1 {
    text-align: center;
 }
 
-h1,
-p {
-   color: rgba(0, 0, 0, 0.726);
+p{ 
+    text-align: center;
+    text-decoration: black;
 }
 
 head{
     text-align: center;
-    background-color: crimson;
+    background-color: rgba(111, 0, 255, 0.993);
     text-decoration: black;
 }
