@@ -1,20 +1,26 @@
 
+*{
+    margin: 0;
+    padding: 2;
+}
+
 body {
     text-align: center;
-   background-color: rgba(111, 0, 255, 0.993);
+    background-color: rgb(33, 102, 252);
 }
 
 h1 {
    text-align: center;
+   
 }
 
 p{ 
     text-align: center;
-    text-decoration: black;
+    text-decoration: rgb(255, 0, 0);
 }
 
 head{
     text-align: center;
-    background-color: rgba(111, 0, 255, 0.993);
-    text-decoration: black;
+    background-color: rgb(33, 102, 252);
+    text-decoration: rgb(255, 0, 0);
 }
