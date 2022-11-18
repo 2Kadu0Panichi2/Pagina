@@ -6,8 +6,9 @@
 
 body {
     text-align: center;
-    background-color: rgb(70, 132, 226);
+    background-color: var(--borda);
     font-size: 20px;
+    color: var(--texto);
 }
 
 h1 {
@@ -29,3 +30,15 @@ head{
 b{
     padding: 0px;
 }
+
+:root {
+    --primeira-cor:" #0073ff ";
+    --segunda-cor: " #8E70CD " ;
+
+    --borda: " #1FFFE9 ";
+
+    --fundo: " #850505 ";
+    --texto: " #528277 ";
+
+}
+
