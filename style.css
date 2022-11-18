@@ -12,8 +12,7 @@ body {
 }
 
 h1 {
-   color: rgb(255, 0, 0);
-   
+   color: var(--primeira-cor);
 }
 
 p{ 
@@ -32,13 +31,13 @@ b{
 }
 
 :root {
-    --primeira-cor:" #0073ff ";
-    --segunda-cor: " #8E70CD " ;
+    --primeira-cor:"#0073ff" ;
+    --segunda-cor: "#8E70CD" ;
 
-    --borda: " #1FFFE9 ";
+    --borda: "#1FFFE9" ;
 
-    --fundo: " #850505 ";
-    --texto: " #528277 ";
+    --fundo: "#850505" ;
+    --texto: "#528277" ;
 
 }
 
