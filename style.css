@@ -6,7 +6,7 @@
 
 body {
     text-align: center;
-    background-color: var(--borda);
+    background-color: var(--fundo);
     font-size: 20px;
     color: var(--texto);
 }
@@ -22,8 +22,8 @@ p{
 
 head{
     text-align: center;
-    background-color: rgb(70, 132, 226);
-    text-decoration: rgb(0, 0, 0);
+    background-color: var(--fundo);
+    text-decoration:var(--segunda-cor);
 }
 
 b{
